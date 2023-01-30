@@ -2,5 +2,6 @@
 
 Ago based API for Tock
 
-It handles orders and payments. Integrates with Stripe for payments and will support
+It handles all the operations such as user(login, logout), reservations, orders, deliveries and payments(Integrates with Stripe for payments and will support)
 international pricing and VAT verification.
+Please contact us(freela.freelancerbr@gmail.com) with your suggestions and questions
